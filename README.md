@@ -1,6 +1,6 @@
 # The-Gellun-Folio-Two
 A Speculative Grand Unified Theory of the Alternate Physics of an Imaginary Universe
-(this is a WIP readme, may change)
+(this is a WIP readme and repo, things may change)
 NOVEL, DIVERGENT and INCOMPLETE. Seeking to stimulate discussion resulting in further development.
 
 As a hobby I used to write Speculative Fiction (SF). I enjoyed it.

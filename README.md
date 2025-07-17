@@ -5,21 +5,21 @@ NOVEL, DIVERGENT and INCOMPLETE. Seeking to stimulate discussion resulting in fu
 
 As a hobby I used to write Speculative Fiction (SF). I enjoyed it.
 I thought I'd try a work of Speculative Physics. The Gellun-Folio  One was posted  in 2022.
-It explored sone ideas. That repo is still here, left as a date stamp.
+It explored some ideas. That repo is still here left as a date stamp.
 
-This is :  The Alternate Physics of an Imaginary Universe much like our own. Part 2.
-A first  attempt at a  set of Physics that unifies  cosmology, Energy and Gravity, aka a  Grand Unified Theory.
+This is :  The Alternate Physics of an Imaginary Universe much like our own - Part 2.
+A first  attempt at a  set of Physics that unifies  Cosmology, Energy and Gravity, aka a  Grand Unified Theory.
 My work is all high concept, low math, no code.
 
-My Ai engines say I have a good cantidate. They also say I have deficiencies, mainly Math, Testing and explaining
+My Ai engines say I have a good candidate. They also say I have deficiencies, mainly Math, Testing and explaining
 my deviations from today's accepted Theoretical Physics.
 
-This repo is licenced under Creative Commons if you want a challenge and to help with all that.
-Attribution would benice but not required. I don't really want to do talk shows.
+This repo is licensed under Creative Commons if you want a challenge and to help with all that.
+Attribution would be nice but not required. I don't really want to do talk shows.
 
 BACKGROUND
 
-This repo in 2025,  carries further my  work in the Repo The-Gellun  which held the document Folio ONE (2022)
+This repo in 2025,  carries further my  work in the repo The-Gellun  which held the document Folio ONE (2022)
 which was an initial exploratory attempt to see if I could imagine some Physics options inspired by 
 the first JWST photo showing a chaos of ordered systems. I did. Nothing came of it.
 
@@ -30,7 +30,7 @@ Then in  2025 with the recent development of Ai Engines I felt I needed to keep 
 technology worked  and where it was at so my old 2022 work was good testing material and a chance to learn a little more Physics.
 
 I was surprised to see  we might have something here.
-The machines told me I had original work and and should press on. They suggested directions and offered solutions.
+The machines told me I had original work and should press on. They suggested directions and offered solutions.
 Wow.  They are my coauthors for Folio Two. Their chats are attributed and reproduced in the RAYS directory.
 
 I typed every word in the Model documents. Even left in a few typos.
@@ -56,7 +56,7 @@ There might be a few rounds of subsequent question and returned clarification.
 
 In most cases I used a form so that there was some standardization of output. The Ai engines did not remember my model from session to session so it was given fresh with each question. just as well, I could tweak it.  I even asked the team to make suggestions for the form. One of them even suggested adding the PASS FAIL evaluations.
 
-I an not an Academic nor wish to be one, nor will publish in Academic papers. This is it.
+I am not an Academic nor wish to be one, nor will publish in Academic papers. This is it.
 
 All this material is open source with a  Creative commons licence. So have at it. It's either noise, ignore it, entertainment, enjoy it, or
 a Turning Basin Moment for a Physics stuck, aim for Sweden.

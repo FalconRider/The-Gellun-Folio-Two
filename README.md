@@ -46,17 +46,17 @@ there is one key word. THEORY.  So don't get your Muons in a knot.
 I wasn't going to explain Everything about Everything anyway.  It has holes but so do the currently accepted theories.
 That's enough for this run. It's still a work in progress and I continue. 
 
-But it PASSED  a number of evaluations
-It developed from my testing some "Hard Point"   real life concepts as to if they could be explained by the model.
-some failed, some passed, I adjusted d the Model.  
-Each topic returned a RAY report and selected ones are listed in the RAYS  directory.
+But it PASSED  a number of evaluations.
+It developed from my testing some "Hard Point"   real life concepts as to if they could be explained by the model. (GLINTS)
+Some failed, some passed. I adjusted the Model.  
+Each topic returned a RAY report and selected ones are listed in the GLINT directory.
 
-Each Ray in includes an attribution as to which Ai engine I posed the topics question, the question and the returned answer.
+Each Ray includes an attribution as to which Ai engine was posed the topics question and the returned answer.
 There might be a few rounds of subsequent question and returned clarification.  
 
-In most cases I used a form so that there was some standardization of output. The Ai engines did not remember my model from session to session so it was given fresh with each question. just as well, I could tweak it.  I even asked the team to make suggestions for the form. One of them even suggested adding the PASS FAIL evaluations.
+In most cases I used a form so that there was some standardization of output. The Ai engines did not remember my model from session to session so it was given fresh with each question. Just as well, I could tweak it.  I even asked the team to make suggestions for the form. One of them even suggested adding the PASS FAIL evaluations.
 
-I am not an Academic nor wish to be one, nor will publish in Academic papers. This is it.
+I am not an Academic nor wish to be one, nor will publish in Academic papers. This is it for now.
 
 All this material is open source with a  Creative commons licence. So have at it. It's either noise, ignore it, entertainment, enjoy it, or
 a Turning Basin Moment for a Physics stuck, aim for Sweden.

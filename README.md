@@ -61,4 +61,4 @@ I am not an Academic nor wish to be one, nor will publish in Academic papers. Th
 All this material is open source with a  Creative commons licence. So have at it. It's either noise, ignore it, entertainment, enjoy it, or
 a Turning Basin Moment for a Physics stuck, aim for Sweden.
 
-readme 2025071505
+

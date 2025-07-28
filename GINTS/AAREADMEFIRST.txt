@@ -1,0 +1,22 @@
+GINT : An analysis of the PHYQ topic assigned to an Ai Engine, involving a description, the currently accepted physics explanation of the mechanics or cause of it. Then an  attempt to support a recast or Interpretation or  explanation  under a GELLUN framework.  A GELLUN INTERPRETATION if possible or describing how GELLUN would not or totally fail to do so. 
+This is a Scientific Method Approach with the Gellun concepts being the hypothesis. 
+
+PHYQ:  : The topic which is a Physics Question. A real world  observation, behavior or curiosity that is being studied here. 
+May even be an objection, observation or question raised by another AAINT in a GINT.
+
+There were about 100 topics discussed, and more coming as I continue with my curiosities. 
+Presented here are just a selected few explorations on key topics that I have ready for presentation.
+
+
+Team  of Ai engines --   N(PHY)L  Team Gellun
+
+CLAUDE      Anthropics CLAYDE
+CHAT        OpenAi   chatGPT
+GROK        xAi GROK
+STU         Google Gemini Ai STUdio 
+METZ        Meta's Ai
+COPPY       MS CoPilot Ai
+
+Freemium versions used, it was all text.  High concept, low math! 
+Due to this being an evolving process there may be format versions in the files.
+
